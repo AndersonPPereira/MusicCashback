@@ -8,7 +8,7 @@ Estrutura do projeto:
 * Uso nativo do Asp.net core para injeção de dependência.
 * Entity Framework Core.
 * Migration usando Fluent Api.
-* Uso de continuos integration e continous deployment (azure devops).
+* Uso de continuous integration e continuous deployment (azure devops).
 * Todo o processo de desenvolvimento foi realizado no azure devops: https://andersondasilva.visualstudio.com/MusicCashback
 
 Pontos que poderia ser evoluido:
