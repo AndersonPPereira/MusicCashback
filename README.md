@@ -16,10 +16,11 @@ Pontos que poderia ser evoluido:
 * Excluir clientes.
 * Criaptografia de senha.
 * Controle de autorização.
+* Testes Unitários.
 
 Execução do projeto:
 * Para executar o projeto alterara a propriedade Server em appsettings local ou para publicação na azure.
-* Collection do postman junto ao projeto.
+* Collection do postman enviado por e-mail.
 * Projeto na azure: https://music-cashback-app.azurewebsites.net
 
 Referências:
