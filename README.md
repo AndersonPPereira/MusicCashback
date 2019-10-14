@@ -1,20 +1,27 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+Estrutura do projeto:
+* Uso de AutoMapper.
+* Class de extensão para converter para string, decimal, boleano...
+* Uso de autenticação com Json Web Token.
+* Uso de Dto.
+* Uso de DDD.
+* Aplicado conceitos de SOLID.
+* Uso nativo do Asp.net core para injeção de dependência.
+* Entity Framework Core.
+* Migration usando Fluent Api.
+* Uso de continuos integration e continous deployment (azure devops).
+* Todo o processo de desenvolvimento foi realizado no azure devops: https://andersondasilva.visualstudio.com/MusicCashback
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+Pontos que poderia ser evoluido:
+* Alteração de clientes.
+* Excluir clientes.
+* Criaptografia de senha.
+* Controle de autorização.
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+Execução do projeto:
+* Para executar o projeto alterara a propriedade Server em appsettings local ou para publicação na azure.
+* Collection do postman junto ao projeto.
+* Projeto na azure: https://music-cashback-app.azurewebsites.net
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
-
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+Referências:
+* (Spotify) - https://github.com/JohnnyCrazy/SpotifyAPI-NET
+* (Estrutura DDD) - https://github.com/EduardoPires/EquinoxProject
