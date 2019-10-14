@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MusicCashback.Domain\MusicCashback.Domain.csproj" />
+    <ProjectReference Include="..\MusicCashback.Infra.Data\MusicCashback.Infra.Data.csproj" />
+    <ProjectReference Include="..\MusicCashback.Infra.HTTP\MusicCashback.Infra.HTTP.csproj" />
+  </ItemGroup>
+
+</Project>
